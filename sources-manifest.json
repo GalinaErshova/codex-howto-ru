@@ -229,5 +229,79 @@
       "checked_on": "2026-10-24",
       "section": "updates"
     }
+  ],
+  "radar_practice_sources": [
+    {
+      "url": "https://learn.chatgpt.com/docs/browser.md",
+      "source_kind": "official-openai",
+      "checked_on": "2026-10-24",
+      "snapshot_file": "radar-browser.txt",
+      "bytes": 16433,
+      "sha256": "8558ece2cd53b9a3e2fe110b87258630575c6146e10db559df7ea082c93b8210"
+    },
+    {
+      "url": "https://learn.chatgpt.com/docs/build-skills.md",
+      "source_kind": "official-openai",
+      "checked_on": "2026-10-24",
+      "snapshot_file": "radar-build-skills.txt",
+      "bytes": 11035,
+      "sha256": "ed6e324f747d47adf6f60ee1fca13ba469b3671f55f58c3a78f35947af6919d5"
+    },
+    {
+      "url": "https://learn.chatgpt.com/docs/image-inputs.md",
+      "source_kind": "official-openai",
+      "checked_on": "2026-10-24",
+      "snapshot_file": "radar-image-inputs.txt",
+      "bytes": 2295,
+      "sha256": "252e1571e2cb0f933d04846f52023861bd6d6168a7ab279a421787db287bd3d3"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/vladzima/colormason/main/README.md",
+      "source_kind": "third-party-primary",
+      "checked_on": "2026-10-24",
+      "snapshot_file": "radar-colormason.md",
+      "bytes": 3659,
+      "sha256": "8fb5a06773c72066d402970bbdb95591d02c887d6b124414a7fdc62a5a98ebfb"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/nexu-io/codex-slides/master/README.md",
+      "source_kind": "third-party-primary",
+      "checked_on": "2026-10-24",
+      "snapshot_file": "radar-slides.md",
+      "bytes": 52915,
+      "sha256": "02857a18bf4c15956280aaf980b215f6073803c64d50f1fd84dd1bec3055ace0"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/tt-a1i/archify/main/README_EN.md",
+      "source_kind": "third-party-primary",
+      "checked_on": "2026-10-24",
+      "snapshot_file": "radar-archify.md",
+      "bytes": 36520,
+      "sha256": "62b553d14d666243f01d6b5da7c48e7f00ba5b7141550190f1dd2bb83e86d39b"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/artwist-polyakov/polyakov-claude-skills/main/plugins/blogger-ads-skill/skills/blogger-ads-skill/SKILL.md",
+      "source_kind": "third-party-primary",
+      "checked_on": "2026-10-24",
+      "snapshot_file": "radar-ads-skill.md",
+      "bytes": 15540,
+      "sha256": "bde81fb2fc038ca7c87133b39e2ea3cfa64c14325a7e1952bc5782a77aaf0153"
+    },
+    {
+      "url": "https://pimenov.ai/knowledge/kak-sobrat-dannye-saytov-konkurentov-dlya-codex/",
+      "source_kind": "third-party-primary",
+      "checked_on": "2026-10-24",
+      "snapshot_file": "radar-competitors.txt",
+      "bytes": 91728,
+      "sha256": "07e9cc1bc2a868d18743c86cd266d80ac98b72b3114de332ea307983a4d751cc"
+    },
+    {
+      "url": "https://t.me/s/countwithsasha/835",
+      "source_kind": "third-party-primary",
+      "checked_on": "2026-10-24",
+      "snapshot_file": "radar-figma-post.txt",
+      "bytes": 126427,
+      "sha256": "723c39a1c528245548401f9864429390d05ce7a42e9ecbebe027416ae3b1001f"
+    }
   ]
 }
