@@ -1,0 +1,59 @@
+title: Codex на Windows
+description: Русское руководство по Codex — 14 модулей, теория без практики и примеры PowerShell.
+lang: ru
+url: https://galinaershova.github.io
+baseurl: /codex-howto-ru
+repository: GalinaErshova/codex-howto-ru
+remote_theme: just-the-docs/just-the-docs@v0.12.0
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+include:
+  - README.md
+  - READING.md
+  - CONTRIBUTING.md
+  - CHANGELOG.md
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
+defaults:
+  - scope:
+      path: ''
+      type: pages
+    values:
+      layout: default
+
+color_scheme: light
+search_enabled: true
+search:
+  heading_level: 3
+  previews: 3
+  preview_words_before: 4
+  preview_words_after: 8
+  button: true
+nav_enabled: true
+nav_external_links: []
+heading_anchors: true
+enable_copy_code_button: true
+back_to_top: true
+back_to_top_text: Наверх
+mermaid: null
+
+aux_links:
+  Исходники и правки:
+    - https://github.com/GalinaErshova/codex-howto-ru
+
+gh_edit_link: true
+gh_edit_link_text: Предложить правку на GitHub
+gh_edit_repository: https://github.com/GalinaErshova/codex-howto-ru
+gh_edit_branch: main
+gh_edit_view_mode: edit

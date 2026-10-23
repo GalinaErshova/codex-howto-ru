@@ -1,3 +1,10 @@
+---
+layout: "default"
+title: "Шпаргалка PowerShell"
+nav_order: 3
+parent: "Приложения"
+---
+
 ## Шпаргалка PowerShell
 
 ### Перевод распространённых Bash-команд
