@@ -1,3 +1,10 @@
+---
+layout: "default"
+title: "Проверки русской редакции Codex на Windows"
+nav_order: 7
+parent: "Приложения"
+---
+
 # Проверки русской редакции Codex на Windows
 
 Дата: **24 октября 2026 года**, Europe/Berlin.

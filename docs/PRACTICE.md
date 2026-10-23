@@ -1,3 +1,10 @@
+---
+layout: "default"
+title: "Практикум: исправление ошибки на Windows"
+nav_order: 2
+parent: "Приложения"
+---
+
 ## Практикум: исправление ошибки на Windows
 
 Этот практикум адаптирует [Engineering Playground](https://github.com/Phelan164/codex-howto/tree/65e9712af333bea85f20030ed2b33b51308a228e/labs/engineering-playground). Он не подключается к рабочему сервису. Исходник намеренно содержит ошибки; использовать его как готовый модуль управления складом нельзя.
