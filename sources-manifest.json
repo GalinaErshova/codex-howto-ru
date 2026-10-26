@@ -317,5 +317,25 @@
       "bytes": 1739,
       "sha256": "59d6a7f0db23f40c2131f9132f12ca1e092122f1dd0cf592af646de2be3469f1"
     }
+  ],
+  "model_comparison_sources": [
+    {
+      "checked_on": "2026-10-26",
+      "url": "https://learn.chatgpt.com/docs/model-selection.md",
+      "bytes": 4576,
+      "sha256": "b3ce4be1f893a1d7ec545fe22a05bdab4d273b39c943bb763159391696a626b3"
+    },
+    {
+      "checked_on": "2026-10-26",
+      "url": "https://learn.chatgpt.com/docs/models.md",
+      "bytes": 19360,
+      "sha256": "87a2915f285b10cafd7e5bc8875edd640d273fe63a4ec0cd13a62866e75828fb"
+    },
+    {
+      "checked_on": "2026-10-26",
+      "url": "https://learn.chatgpt.com/docs/whats-new/october-26-30-2026.md",
+      "bytes": 1739,
+      "sha256": "59d6a7f0db23f40c2131f9132f12ca1e092122f1dd0cf592af646de2be3469f1"
+    }
   ]
 }
