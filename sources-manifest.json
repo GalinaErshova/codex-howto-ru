@@ -334,6 +334,20 @@
       "url": "https://github.com/NVIDIA/SkillSpector/blob/main/README.md",
       "bytes": 58475,
       "sha256": "1bfa919d59a94daf50c668d8ccaee83a05124c899613c6f3e06ec0437470e2d2"
+    },
+    {
+      "url": "https://learn.chatgpt.com/docs/models.md",
+      "checked_on": "2026-10-28",
+      "snapshot_file": "models.txt",
+      "bytes": 19543,
+      "sha256": "0a99a1a6e54f0a0b2e2d7409873b88308e9ccee0414a60d746452af4989bf34e"
+    },
+    {
+      "url": "https://api.github.com/repos/openai/codex/releases/latest",
+      "checked_on": "2026-10-28",
+      "snapshot_file": "release.json",
+      "bytes": 548127,
+      "sha256": "940d6160e95dc52f59a4408ce0d3ec979a973c3d40b00fb23d225d6ce43feca2"
     }
   ],
   "model_comparison_sources": [
