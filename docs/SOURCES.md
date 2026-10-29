@@ -9,6 +9,12 @@ parent: "Приложения"
 
 Сверка выполнена **24 октября 2026 года** по официальным страницам OpenAI. Ссылки ведут на текущую документацию, которая может измениться после выпуска руководства. Для воспроизводимости в комплект включён [`sources-manifest.json`](../sources-manifest.json): URL загрузки, имя сохранённого снимка, размер и SHA-256. Полные тексты сторонних официальных страниц в комплект не включены.
 
+### Дополнение: сверка 29 октября 2026 года
+
+Релиз [openai/codex 0.166.0](https://github.com/openai/codex/releases/tag/rust-v0.166.0) сверён с [официальным changelog](https://learn.chatgpt.com/docs/changelog) и GitHub Releases API: опубликован 29 октября, `prerelease: false`. Alpha-релизы отделены от стабильного. Новые команды и исправления отнесены к CLI; дата и версия desktop не выводятся из номера CLI. В реестр добавлен снимок фактически прочитанных release notes с SHA-256.
+
+Семь страниц Models, Model selection, CLI-команд, Composer Predictions, Projects, Worktrees и What's new совпали со снимками 28 октября. Радар доступен: 171 находка, одна новая — общий обзор LLM со случайным упоминанием Codex; нового практического сценария он не добавляет. Исходный экспорт не публикуется.
+
 ### Дополнение: сверка 28 октября 2026 года
 
 Прочитаны [официальные release notes CLI 0.165.0](https://github.com/openai/codex/releases/tag/rust-v0.165.0) и [Models](https://learn.chatgpt.com/docs/models): дата релиза 27 октября отделена от даты сверки. Стабильность проверена через GitHub Releases (`prerelease: false`). Эксперимент app-server API не приписывается настольному интерфейсу. Дополнительно сверены changelog, What's new, команды CLI, Composer Predictions, проекты, worktrees и Model selection. Анонс texting для dot относится к beta Pro в США и не перенесён в руководство по Windows как общедоступная возможность Codex.
