@@ -348,6 +348,13 @@
       "snapshot_file": "release.json",
       "bytes": 548127,
       "sha256": "940d6160e95dc52f59a4408ce0d3ec979a973c3d40b00fb23d225d6ce43feca2"
+    },
+    {
+      "url": "https://api.github.com/repos/openai/codex/releases/latest",
+      "checked_on": "2026-10-29",
+      "snapshot_file": "release.json",
+      "bytes": 624880,
+      "sha256": "e85aa0e4e1038dd5086345ca507953dee14ce53e244afe1c92ee5b57c0f1487f"
     }
   ],
   "model_comparison_sources": [
