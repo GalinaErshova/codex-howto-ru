@@ -355,6 +355,20 @@
       "snapshot_file": "release.json",
       "bytes": 624880,
       "sha256": "e85aa0e4e1038dd5086345ca507953dee14ce53e244afe1c92ee5b57c0f1487f"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/vakovalskii/paddock/main/README.ru.md",
+      "checked_on": "2026-10-31",
+      "snapshot_file": "paddock.txt",
+      "bytes": 18400,
+      "sha256": "080e7999f0ae0c57a39c38191961ae42ef150bdf0dd926694047aa9417271b42"
+    },
+    {
+      "url": "https://learn.chatgpt.com/docs/remote-connections.md",
+      "checked_on": "2026-10-31",
+      "snapshot_file": "remote.txt",
+      "bytes": 14138,
+      "sha256": "c022b9bd19d73b43968acd3ea4a60538e4b9cacf12b3073819b423d6a2d6fe35"
     }
   ],
   "model_comparison_sources": [
