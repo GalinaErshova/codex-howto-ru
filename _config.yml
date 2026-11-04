@@ -2,8 +2,8 @@ title: Codex на Windows
 description: Русское руководство по Codex — 14 модулей, теория без практики и примеры PowerShell.
 lang: ru
 yandex_metrika_id: 114027082
-url: https://galinaershova.github.io
-baseurl: /codex-howto-ru
+url: https://codex.galaershova.ru
+baseurl: ''
 repository: GalinaErshova/codex-howto-ru
 remote_theme: just-the-docs/just-the-docs@v0.12.0
 
