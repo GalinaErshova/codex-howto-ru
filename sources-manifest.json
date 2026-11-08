@@ -404,6 +404,13 @@
       "snapshot_file": "release.json",
       "bytes": 410660,
       "sha256": "5f3156761f353d17be02ed661dd440751ea871ae288461965d5adcb8d43a2294"
+    },
+    {
+      "url": "https://learn.chatgpt.com/docs/image-generation.md",
+      "checked_on": "2026-11-08",
+      "snapshot_file": "image-generation.txt",
+      "bytes": 8863,
+      "sha256": "0eedfcaca1d6cb8ed0a39b6e1b0b2dedc06e2f9b9d2bcff5c5dfffa5f6360daa"
     }
   ],
   "model_comparison_sources": [
