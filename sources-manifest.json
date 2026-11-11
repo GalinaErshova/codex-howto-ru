@@ -411,6 +411,20 @@
       "snapshot_file": "image-generation.txt",
       "bytes": 8863,
       "sha256": "0eedfcaca1d6cb8ed0a39b6e1b0b2dedc06e2f9b9d2bcff5c5dfffa5f6360daa"
+    },
+    {
+      "url": "https://api.github.com/repos/openai/codex/releases/latest",
+      "checked_on": "2026-11-11",
+      "snapshot_file": "release.json",
+      "bytes": 329868,
+      "sha256": "670bfc78ac856c49a010e65d4bb3c01ccf1f7162054f6556c0288f0b084c307d"
+    },
+    {
+      "url": "https://api.github.com/repos/openai/codex/compare/rust-v0.167.0...rust-v0.167.1",
+      "checked_on": "2026-11-11",
+      "snapshot_file": "release-comparison.json",
+      "bytes": 69319,
+      "sha256": "45a50067e090b7e94136e8c450b513625603ccfe76184c272fb25c532772308f"
     }
   ],
   "model_comparison_sources": [
