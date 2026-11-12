@@ -425,6 +425,20 @@
       "snapshot_file": "release-comparison.json",
       "bytes": 69319,
       "sha256": "45a50067e090b7e94136e8c450b513625603ccfe76184c272fb25c532772308f"
+    },
+    {
+      "url": "https://api.github.com/repos/openai/codex/releases/tags/rust-v0.167.2",
+      "checked_on": "2026-11-12",
+      "snapshot_file": "release.json",
+      "bytes": 330166,
+      "sha256": "6b4ad06fe3dfbda104a2f06e7d3c213ed3a8ae47afbf25325644f80f39613b3b"
+    },
+    {
+      "url": "https://learn.chatgpt.com/docs/changelog",
+      "checked_on": "2026-11-12",
+      "snapshot_file": "changelog.html",
+      "bytes": 4749239,
+      "sha256": "7977b705660a5496c54d94a5265df472d1de554736c5bf1aa9867700edc53fb8"
     }
   ],
   "model_comparison_sources": [
