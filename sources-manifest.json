@@ -439,6 +439,20 @@
       "snapshot_file": "changelog.html",
       "bytes": 4749239,
       "sha256": "7977b705660a5496c54d94a5265df472d1de554736c5bf1aa9867700edc53fb8"
+    },
+    {
+      "url": "https://api.github.com/repos/openai/codex/releases/tags/rust-v0.168.0",
+      "checked_on": "2026-11-13",
+      "snapshot_file": "release-0.168.0.json",
+      "bytes": 349756,
+      "sha256": "f33d8ee43b55a6838d788d230ac4a8e1fbd7b30797627da3f7f9516d3a710026"
+    },
+    {
+      "url": "https://api.github.com/repos/openai/codex/releases/tags/rust-v0.169.0",
+      "checked_on": "2026-11-13",
+      "snapshot_file": "release-0.169.0.json",
+      "bytes": 351374,
+      "sha256": "39b0b9663da380dc6e7c308533dfdea031e5935676be069d72d2c986b711abab"
     }
   ],
   "model_comparison_sources": [
