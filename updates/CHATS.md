@@ -56,6 +56,8 @@ nav_order: 1
 
 В официальном [практическом разборе Codex Remote](https://learn.chatgpt.com/blog/mastering-codex-remote-for-engineering) также описан вопрос по выделенному тексту через **Ask in side chat**. Этот пример относится к Remote/mobile; наличие и точное название такого пункта в Windows здесь не проверялись.
 
+При включённой рабочей области в локальном полноэкранном сеансе с доступной сохранённой историей `/side` без вопроса открывает существующий боковой чат, а `/side <вопрос>` начинает новый. [Команды CLI для боковых чатов](https://learn.chatgpt.com/docs/developer-commands#start-a-side-chat-with-side).
+
 <a id="cli-side-tabs"></a>
 ### Несколько боковых вкладок в терминале
 
