@@ -453,6 +453,20 @@
       "snapshot_file": "release-0.169.0.json",
       "bytes": 351374,
       "sha256": "39b0b9663da380dc6e7c308533dfdea031e5935676be069d72d2c986b711abab"
+    },
+    {
+      "url": "https://learn.chatgpt.com/docs/models.md",
+      "checked_on": "2026-11-17",
+      "snapshot_file": "models.md",
+      "bytes": 21159,
+      "sha256": "56dc4b791e918727a0ad69386c2781e7f530ccf083766f8e14ac368abf7fec23"
+    },
+    {
+      "url": "https://learn.chatgpt.com/docs/model-selection.md",
+      "checked_on": "2026-11-17",
+      "snapshot_file": "model-selection.md",
+      "bytes": 4276,
+      "sha256": "2dbe629f926d20d77be59769cc167b3661f92e21582577bb93af6e26fe93860b"
     }
   ],
   "model_comparison_sources": [
