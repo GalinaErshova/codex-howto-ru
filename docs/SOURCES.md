@@ -9,6 +9,10 @@ parent: "Приложения"
 
 Сверка выполнена **24 октября 2026 года** по официальным страницам OpenAI. Ссылки ведут на текущую документацию, которая может измениться после выпуска руководства. Для воспроизводимости в комплект включён [`sources-manifest.json`](../sources-manifest.json): URL загрузки, имя сохранённого снимка, размер и SHA-256. Полные тексты сторонних официальных страниц в комплект не включены.
 
+### Дополнение. Сверка 18 ноября 2026 года
+
+Стабильность CLI 0.170.0 подтверждена Releases API. Исправления Windows, сохранения ограничений и поиска сверены с release notes и журналом OpenAI. [Релиз](https://github.com/openai/codex/releases/tag/rust-v0.170.0) · [Журнал](https://learn.chatgpt.com/docs/changelog).
+
 ### Дополнение. Модели GPT-6.2, 17 ноября 2026 года
 
 Назначение моделей и команды выбора в CLI сверены по Models и Model selection. Условия тарифов и развёртывания сверены по анонсу и справке. [Models](https://learn.chatgpt.com/docs/models) · [Model selection](https://learn.chatgpt.com/docs/model-selection) · [Справка](https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex).
