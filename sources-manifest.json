@@ -467,6 +467,13 @@
       "snapshot_file": "model-selection.md",
       "bytes": 4276,
       "sha256": "2dbe629f926d20d77be59769cc167b3661f92e21582577bb93af6e26fe93860b"
+    },
+    {
+      "url": "https://api.github.com/repos/openai/codex/releases/tags/rust-v0.170.0",
+      "checked_on": "2026-11-18",
+      "snapshot_file": "release.json",
+      "bytes": 334804,
+      "sha256": "598f051aaf2dc60a8bd765f4a26c430c5d8973fa474fbd9e94ef0f5ee0925900"
     }
   ],
   "model_comparison_sources": [
