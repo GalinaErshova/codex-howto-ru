@@ -474,6 +474,13 @@
       "snapshot_file": "release.json",
       "bytes": 334804,
       "sha256": "598f051aaf2dc60a8bd765f4a26c430c5d8973fa474fbd9e94ef0f5ee0925900"
+    },
+    {
+      "url": "https://api.github.com/repos/openai/codex/releases/tags/rust-v0.171.0",
+      "checked_on": "2026-11-20",
+      "snapshot_file": "release.json",
+      "bytes": 357777,
+      "sha256": "5b197c6f4aad6db09a9127af1161848672f14de6b30a305ffeeccf5e8a968d79"
     }
   ],
   "model_comparison_sources": [
