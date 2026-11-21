@@ -481,6 +481,27 @@
       "snapshot_file": "release.json",
       "bytes": 357777,
       "sha256": "5b197c6f4aad6db09a9127af1161848672f14de6b30a305ffeeccf5e8a968d79"
+    },
+    {
+      "url": "https://docs.currents.dev/ai/connect/codex.md",
+      "checked_on": "2026-11-21",
+      "snapshot_file": "currents-codex.txt",
+      "bytes": 7333,
+      "sha256": "7fe5654958c0dc19aa9c0474e9d732018ab016acb36e0afb68c78843dc85e8fd"
+    },
+    {
+      "url": "https://docs.currents.dev/ai/connect.md",
+      "checked_on": "2026-11-21",
+      "snapshot_file": "currents-connect.txt",
+      "bytes": 8020,
+      "sha256": "d3640f8bea992f874b5c6fe2e9737d87983ac906cb5af5bae5a74374df050cbc"
+    },
+    {
+      "url": "https://learn.chatgpt.com/docs/extend/mcp.md",
+      "checked_on": "2026-11-21",
+      "snapshot_file": "mcp.txt",
+      "bytes": 31613,
+      "sha256": "faf9407740483f7ee27ac4d0db08a9d15510b3d241251edc9d00cf7b35c29e3b"
     }
   ],
   "model_comparison_sources": [
