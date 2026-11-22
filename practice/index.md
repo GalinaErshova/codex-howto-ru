@@ -373,4 +373,3 @@ README описывает анализ без выполнения провер�
 Перечень и границы сверки: [источники](../docs/SOURCES.md#radar-practice), [проверки](../docs/VERIFICATION.md#radar-practice).
 
 [← Главная](../README.md) · [Новые возможности](../updates/index.md) · [Чтение без практики](../READING.md)
-
