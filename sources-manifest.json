@@ -502,6 +502,41 @@
       "snapshot_file": "mcp.txt",
       "bytes": 31613,
       "sha256": "faf9407740483f7ee27ac4d0db08a9d15510b3d241251edc9d00cf7b35c29e3b"
+    },
+    {
+      "url": "https://learn.chatgpt.com/docs/space.md",
+      "checked_on": "2026-11-22",
+      "snapshot_file": "space.md",
+      "bytes": 2764,
+      "sha256": "ece0ff41f13e3cd0dc4bf4fad7af26e95e56b5abad830827f4a76fc6a5b7f182"
+    },
+    {
+      "url": "https://learn.chatgpt.com/docs/space/getting-started.md",
+      "checked_on": "2026-11-22",
+      "snapshot_file": "space-getting-started.md",
+      "bytes": 4727,
+      "sha256": "b626bd339f5b53d8a68741ac0c7f324e12ae6b6fe8f81cb3d88d9f343abe5800"
+    },
+    {
+      "url": "https://learn.chatgpt.com/docs/space/pages.md",
+      "checked_on": "2026-11-22",
+      "snapshot_file": "space-pages.md",
+      "bytes": 9610,
+      "sha256": "50a41e858830871c7f133d207b00891868e6f7f645d706ee01e8eaa184cd796f"
+    },
+    {
+      "url": "https://learn.chatgpt.com/docs/space/agents.md",
+      "checked_on": "2026-11-22",
+      "snapshot_file": "space-agents.md",
+      "bytes": 4752,
+      "sha256": "15228a37860f428cab2c71d8f82365e6d8c78ef7af1d296c19cdbd7e421775c7"
+    },
+    {
+      "url": "https://learn.chatgpt.com/docs/space/collaboration.md",
+      "checked_on": "2026-11-22",
+      "snapshot_file": "space-collaboration.md",
+      "bytes": 3946,
+      "sha256": "4c13f214acdbe8c045e2698d32f1ed3d16e0ca2676a9b4fb9a39274a883cc188"
     }
   ],
   "model_comparison_sources": [
