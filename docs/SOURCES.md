@@ -9,6 +9,10 @@ parent: "Приложения"
 
 Сверка выполнена **24 октября 2026 года** по официальным страницам OpenAI. Ссылки ведут на текущую документацию, которая может измениться после выпуска руководства. Для воспроизводимости в комплект включён [`sources-manifest.json`](../sources-manifest.json): URL загрузки, имя сохранённого снимка, размер и SHA-256. Полные тексты сторонних официальных страниц в комплект не включены.
 
+### Дополнение. Сверка 22 ноября 2026 года
+
+Разбор Space основан на официальных страницах OpenAI: [обзор](https://learn.chatgpt.com/docs/space), [начало работы](https://learn.chatgpt.com/docs/space/getting-started), [страницы](https://learn.chatgpt.com/docs/space/pages), [агенты](https://learn.chatgpt.com/docs/space/agents) и [совместная работа](https://learn.chatgpt.com/docs/space/collaboration). Учебные структуры предложены автором; доступ конкретного аккаунта не проверен.
+
 ### Дополнение. Сверка 21 ноября 2026 года
 
 Для варианта разбора CI прочитаны [инструкция Currents для Codex](https://docs.currents.dev/ai/connect/codex), [подключение агента](https://docs.currents.dev/ai/connect) и [журнал поставщика](https://currents.dev/changelog): подключение из каталога объявлено 3 ноября. Штатная поддержка MCP сверена по [документации OpenAI](https://learn.chatgpt.com/docs/extend/mcp). Официальный журнал OpenAI и Releases по-прежнему показывают стабильный CLI 0.171.0; страницы Windows и CLI без изменений относительно сохранённых снимков.
