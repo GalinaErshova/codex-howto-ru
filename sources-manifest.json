@@ -537,6 +537,27 @@
       "snapshot_file": "space-collaboration.md",
       "bytes": 3946,
       "sha256": "4c13f214acdbe8c045e2698d32f1ed3d16e0ca2676a9b4fb9a39274a883cc188"
+    },
+    {
+      "url": "https://api.github.com/repos/openai/codex/releases/tags/rust-v0.172.0",
+      "checked_on": "2026-11-24",
+      "snapshot_file": "release.json",
+      "bytes": 338391,
+      "sha256": "d0a3679a14d0a7c7351a9361d418b9da47c79b2091c95e25060f8b0e132b42a9"
+    },
+    {
+      "url": "https://api.github.com/repos/openai/codex/pulls/62332",
+      "checked_on": "2026-11-24",
+      "snapshot_file": "thread-links.json",
+      "bytes": 17381,
+      "sha256": "de62f85955225c9b40df723a3f07ff08103bc6d73ed78c951373453ca9da5d41"
+    },
+    {
+      "url": "https://api.github.com/repos/openai/codex/pulls/62194",
+      "checked_on": "2026-11-24",
+      "snapshot_file": "resume-permissions.json",
+      "bytes": 17558,
+      "sha256": "fb4a993d9fae4330f49adf0d74bfcf170957f7107382a4d80f363ee8ffc31927"
     }
   ],
   "model_comparison_sources": [

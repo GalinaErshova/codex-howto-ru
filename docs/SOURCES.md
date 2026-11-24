@@ -9,6 +9,10 @@ parent: "Приложения"
 
 Сверка выполнена **24 октября 2026 года** по официальным страницам OpenAI. Ссылки ведут на текущую документацию, которая может измениться после выпуска руководства. Для воспроизводимости в комплект включён [`sources-manifest.json`](../sources-manifest.json): URL загрузки, имя сохранённого снимка, размер и SHA-256. Полные тексты сторонних официальных страниц в комплект не включены.
 
+### Дополнение. Сверка 24 ноября 2026 года
+
+Стабильный CLI 0.172.0 подтверждён Releases API как релиз от 24 ноября. Прочитаны release notes и журнал OpenAI; ссылки на разговоры сверены с PR 62332, восстановление разрешений — с PR 62194. Найденная в радаре статья [Inside the Codex sandbox](https://openai.com/index/inside-the-codex-sandbox/) опубликована 18 ноября, а не является сегодняшним анонсом. Страницы Windows и CLI сверены без изменений относительно снимков. [Релиз](https://github.com/openai/codex/releases/tag/rust-v0.172.0) · [Журнал](https://learn.chatgpt.com/docs/changelog).
+
 ### Дополнение. Сверка 22 ноября 2026 года
 
 Разбор Space основан на официальных страницах OpenAI: [обзор](https://learn.chatgpt.com/docs/space), [начало работы](https://learn.chatgpt.com/docs/space/getting-started), [страницы](https://learn.chatgpt.com/docs/space/pages), [агенты](https://learn.chatgpt.com/docs/space/agents) и [совместная работа](https://learn.chatgpt.com/docs/space/collaboration). Учебные структуры предложены автором; доступ конкретного аккаунта не проверен.
